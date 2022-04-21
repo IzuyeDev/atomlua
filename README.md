@@ -1,1 +1,1 @@
-# atomlua
+# atom sc
